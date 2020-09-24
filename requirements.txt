@@ -4,9 +4,11 @@ Flask==1.1.2
 Flask-Bootstrap==3.3.7.1
 Flask-Script==2.0.6
 Flask-WTF==0.14.3
+Flask-Migrate==2.5.3
 gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
+# psqycopg2==2.8.6
 MarkupSafe==1.1.1
 pycodestyle==2.6.0
 toml==0.10.1
